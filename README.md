@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexawwws
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning NFT, Difi
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning NFT, DiFi
+- 💞️ I’m looking to collaborate on NFT
 - 📫 How to reach me ...
 
 <!---
